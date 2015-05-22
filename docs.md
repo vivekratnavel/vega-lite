@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Documentation
-description: Vegalite Documentation
+description: Vega-lite Documentation
 isHome: false
 ---
 

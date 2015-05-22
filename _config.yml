@@ -1,12 +1,12 @@
 # name of the software
-name: Vegalite
+name: Vega-lite
 # current version of the software
 version: 0.6.x
 # url of the download button
-downloadUrl: https://github.com/uwdata/vegalite/releases
+downloadUrl: https://github.com/uwdata/vega-lite/releases
 # licence of the software
 license: BSD-3-Clause
-licenseUrl: https://github.com/uwdata/vegalite/blob/master/LICENSE
+licenseUrl: https://github.com/uwdata/vega-lite/blob/master/LICENSE
 
 # list of additional links on the right of the top menu
 headerLinks:
@@ -40,7 +40,7 @@ analytics:
 # github buttons
 githubButton:
   user: uwdata
-  repo: vegalite
+  repo: vega-lite
 
 # twitter buttons
 twitter:
